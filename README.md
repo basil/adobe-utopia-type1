@@ -29,7 +29,7 @@ Xorg mailing list:
 
   https://lists.x.org/mailman/listinfo/xorg
 
-The master development code repository can be found at:
+The primary development code repository can be found at:
 
   https://gitlab.freedesktop.org/xorg/font/adobe-utopia-type1
 

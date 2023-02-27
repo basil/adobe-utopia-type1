@@ -22,8 +22,8 @@ dnl
 dnl Process this file with autoconf to create configure.
 
 AC_PREREQ([2.60])
-AC_INIT([font-adobe-utopia-type1], [1.0.4],
-        [https://gitlab.freedesktop.org/xorg/font/adobe-utopia-type1/issues],
+AC_INIT([font-adobe-utopia-type1], [1.0.5],
+        [https://gitlab.freedesktop.org/xorg/font/adobe-utopia-type1/-/issues],
         [font-adobe-utopia-type1])
 AM_INIT_AUTOMAKE([foreign dist-xz])
 
