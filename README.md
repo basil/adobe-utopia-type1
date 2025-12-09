@@ -1,3 +1,35 @@
+# Utopia
+
+<img src="./Utopia_sample_image.png" width="250" height="296">
+
+## Introduction
+
+In 1989, Adobe contributed PostScript versions of the basic Utopia family to the X Consortium.
+These original files are still available and can be freely downloaded, but they can be hard to find.
+So I tracked them down and wrote a script to convert them into a new package of OTFs, TTFs, and webfonts.
+
+## Build
+
+```bash
+$ ./build.sh
+$ ls dist/*.zip
+dist/Utopia.zip
+```
+
+## License
+
+See [COPYING](./COPYING).
+
+## Related
+
+- [Luxi fonts](https://github.com/basil/bh-ttf)
+- [Bitstream fonts](https://github.com/basil/bitstream-type1)
+- [IBM Courier](https://github.com/basil/ibm-type1)
+- [URW base 35 fonts](https://github.com/basil/urw-base35-fonts)
+- [URW free fonts](https://github.com/basil/urw-free-fonts)
+
+## Original
+
 In the interests of furthering standards for the X Window System, Adobe
 Systems Incorporated has contributed to the X Consortium and its members
 the Adobe typeface software listed below. This Adobe Type 1 font software
